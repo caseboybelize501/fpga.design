@@ -109,7 +109,7 @@ STARTUP BOOTSTRAP (HARD PARAMS — ABSOLUTE FIRST):
 
 bash
 # Clone the repository
-$ git clone https://github.com/fpga-design-jarvis/fpga.design.git
+$ git clone https://github.com/caseboybelize501/fpga.design/fpga.design.git
 $ cd fpga.design
 
 # Install dependencies
